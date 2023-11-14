@@ -1,4 +1,4 @@
-## Olá! Eu sou o João! 👋
+## Olá! Bem-vindo ao meu perfil! 👋
 
 ## Estatísticas GitHub
 ![João GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoM5&show_icons=true&theme=merko)
