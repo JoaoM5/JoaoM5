@@ -1,5 +1,10 @@
 ## Olá! Bem-vindo ao meu perfil! 👋
 
+## Sobre mim:
+- Estudante de Análise e Desenvolvimento de Sistemas
+- Apaixonado por tecnologia e programação
+- Sem experiência profissional, mas sempre em busca de novos desafios
+
 ## Estatísticas GitHub
 ![João GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoM5&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoM5&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
